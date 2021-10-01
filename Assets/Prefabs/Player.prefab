@@ -154,3 +154,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dcd9bd8dc00be054380d874b2ed95c64, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Projectile: {fileID: 6668375893863950742, guid: c308022bbe8961248be28ee1d53e8483,
+    type: 3}
+  projectileVelocity: {x: 10, y: 0}
+  projectileOffset: {x: 1, y: 0}
+  cooldown: 1
